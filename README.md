@@ -4,7 +4,7 @@
 
 This lab was created to practice Splunk SPL using simulated Linux and web server logs. The focus was on detecting authentication failures, analyzing web traffic, enriching logs with geolocation, and building SOC-style visualizations.
 
-> **Note:** Please find screenshots and visual charts in the **`splunk (SIEM) LAB`** folder.
+>  Please find screenshots and visual charts in the **`splunk (SIEM) LAB`** folder.
 
 ---
 
